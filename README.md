@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi everyone!
 
-<!--
-**huynguyenvu1996/huynguyenvu1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##  How to contact me
+<p>
+  
+<a href="https://github.com/huynguyenvu1996">
+  <img src="https://img.shields.io/github/followers/huynguyenvu1996?style=social">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/huynguyenvu1996">
+  <img src="https://img.shields.io/twitter/follow/huynguyenvu1996?style=social">
+</a>
+  
+<a href="https://www.facebook.com/huynguyenvu1996/">
+  <img src="https://img.shields.io/badge/facebook-huynguyenvu1996-1b74e4">
+</a>
+
+</p>
+
+_You can find open source projects that I'm following or working on_ 👇
