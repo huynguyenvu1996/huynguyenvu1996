@@ -1,13 +1,11 @@
 ### Hi everyone!
 
+My name is Huy Nguyen.
+
 ##  How to contact me
 
 <p>
   
-<a href="https://github.com/huynguyenvu1996">
-  <img src="https://img.shields.io/github/followers/huynguyenvu1996?style=social">
-</a>
-
 <a href="https://twitter.com/huynguyenvu1996">
   <img src="https://img.shields.io/badge/Twitter%20@huynguyenvu1996-blue?logo=twitter&style=social">
 </a>
