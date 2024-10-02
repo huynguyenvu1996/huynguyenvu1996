@@ -1,13 +1,13 @@
 ### Hi everyone!
 
-My name is Huy Nguyen.
+My name is Huy Nguyen (Nguyễn Vũ Huy).
 
 ##  How to contact me
 
 <p>
   
-<a href="https://twitter.com/huynguyenvu1996">
-  <img src="https://img.shields.io/badge/Twitter%20@huynguyenvu1996-blue?logo=twitter&style=social">
+<a href="https://x.com/huynguyenvu1996">
+  <img src="https://img.shields.io/badge/X%20@huynguyenvu1996-blue?logo=x&style=social">
 </a>
   
 <a href="https://www.facebook.com/huynguyenvu1996/">
