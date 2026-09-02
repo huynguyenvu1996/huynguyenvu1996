@@ -9,7 +9,22 @@ My name is Huy Nguyen (Nguyễn Vũ Huy).
 
 ---
 
-##  How to contact me
+### Guiding Philosophy
+
+> *"Look inside yourself. You are more than what you have become.  
+> Remember who you are. Remember."*  
+> — *Inspired by Mufasa's words in The Lion King (1994)*
+
+A personal philosophy anchored in three core principles:
+* **Self-Reflection (`Look inside`):** Pause amidst the noise to find clarity and answers from within.
+* **Continuous Growth (`More than what you have become`):** Never let past failures or temporary comfort zones define my limits.
+* **Integrity & Identity (`Remember who you are`):** Stay grounded in core values and purpose, regardless of external shifts.
+
+> In times of ease, it keeps me humble and true to myself. In times of adversity, it reminds me of the inner strength to rise again.
+
+---
+
+###  How to contact me
 
 <p>
   
